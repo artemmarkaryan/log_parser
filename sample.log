@@ -1,0 +1,1 @@
+Feb 11 23:29:41 10.0.4.10 snmpd[2263]: SNMPD_AUTH_FAILURE: nsa_log_community: unauthorized SNMP community from 79.133.116.48 to unknown community name (public)
